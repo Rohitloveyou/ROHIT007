@@ -22,7 +22,7 @@ import os
 
 try:
 
-	import requestsexcept ImportError:
+	import request sexcept ImportError:
 
 	os.system("pip install requests")
 
